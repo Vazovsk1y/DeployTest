@@ -9,7 +9,6 @@ env:
   PROJECT_PATH: FirstSteps/FirstSteps.csproj
 
 jobs:
-permissions: write-all
   deploy:
     runs-on: windows-latest
     steps:
