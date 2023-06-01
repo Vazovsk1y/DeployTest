@@ -8,6 +8,7 @@
 		<UseWPF>true</UseWPF>
 		<IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
 
+		<EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
 		<PublishSingleFile>true</PublishSingleFile>
 	</PropertyGroup>
 
