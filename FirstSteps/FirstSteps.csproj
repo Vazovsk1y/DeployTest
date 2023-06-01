@@ -6,6 +6,7 @@
 		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
 		<Nullable>enable</Nullable>
 		<UseWPF>true</UseWPF>
+		<IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
 
 		<PublishSingleFile>true</PublishSingleFile>
 	</PropertyGroup>
